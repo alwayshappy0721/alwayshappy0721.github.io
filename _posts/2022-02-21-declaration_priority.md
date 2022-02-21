@@ -5,7 +5,6 @@ author:
 date: 2022-02-21 17:03:00 +0800
 categories: [develop]
 tags: [C Language, compiler]
-published: true
 ---
 
 ## 선언문 우선순위
