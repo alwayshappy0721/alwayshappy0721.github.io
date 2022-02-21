@@ -28,7 +28,7 @@ C언어의 선언문은 아래 구조에 따른다.
 <br>
 
 
-![C선언문 파싱 과정 순서도](../_data/assets/img/declaration_priority_1.jpg)
+![C선언문 파싱 과정 순서도](/assets/img/posts/declaration_priority_1.jpg)
 
 <br>
 
