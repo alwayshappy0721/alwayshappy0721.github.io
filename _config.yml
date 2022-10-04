@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzonegg
-timezone: Asia/Korea
+timezone: Pacific/Auckland
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: July Note              # the main title
+title: July Notes              # the main title
 
-tagline: Wanna Dev Fool  # it will display as the sub-title
+tagline: ""  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -40,15 +40,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: JuYoung Seo
+  name: JuYoung(Jerry) Seo
   email: alwayshappy0721@gmail.com             # change to your email address
   links: 
     # The first element serves as the copyright owner's link
     # @sj- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/alwayshappy0721   # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/jerryse0/
+    - https://www.linkedin.com/in/juyoung-seo-5807071aa/?locale=en_US
 
 google_site_verification:               # fill in to your verification string
 
